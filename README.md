@@ -1,2 +1,2 @@
 # qr-code
-QR Code para o principal site de python
+QR Code que leva para o principal site da comunidade python
